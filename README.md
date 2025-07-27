@@ -14,8 +14,8 @@ This project is a modern and responsive product gallery built with React and Tai
 
 🔗 Live Demo
 
-product-gallery-virid.vercel.app
-
+[product-gallery-virid.vercel.app
+](https://product-gallery-virid.vercel.app/)
 🛠️ Tech Stack
 	•	React
 	•	Vite
