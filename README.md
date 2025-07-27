@@ -1,12 +1,25 @@
-# React + Vite
+🚀 React + Vite Product Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📝 Project Overview
 
-Currently, two official plugins are available:
+This project is a modern and responsive product gallery built with React and Tailwind CSS. It fetches a list of products from an external API and displays them in a clean, card-based layout. Each product card links to a dedicated details page with more information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 Features
+	•	Search Functionality – Filter products by name in real time.
+	•	Sorting Options – Sort products by:
+	•	Price (Low to High / High to Low)
+	•	Alphabetically (A–Z)
+	•	Responsive Design – Fully responsive and mobile-friendly layout.
+	•	Smooth Navigation – Clean routing between pages using React Router.
 
-## Expanding the ESLint configuration
+🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+product-gallery-virid.vercel.app
+
+🛠️ Tech Stack
+	•	React
+	•	Vite
+	•	Tailwind CSS
+	•	Axios
+	•	React Router DOM
+	•	Font Awesome
